@@ -24,7 +24,7 @@ Another example :
 
 Resulting image : 
 
-![result](results_data3/final_output.jpg)
+![result](results_data3/output.jpg)
 
 Clearly selecting point by hand is not good as it may lead to error. Hence we can use feature matching to generate corresponding points. This will generate much better homograph and hence better panorama. 
 This is done with web.cpp
