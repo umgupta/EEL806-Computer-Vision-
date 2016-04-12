@@ -1,0 +1,1 @@
+This are assignments done as a part of EEL806 computer vision course at IIT Delhi during the first semester of 2014-15. To run this codes you will need opencv installed. This code is developed and tested on ubuntu 14.04. 
